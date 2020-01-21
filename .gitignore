@@ -2,11 +2,11 @@
 
 # dependencies
 /node_modules
+/webpack.config.js
+/babelrc
 
 # misc
 .DS_Store
 .idea
-.webpack.config.js
-.babelrc
 
 #*.css
