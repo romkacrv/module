@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "node-module",
   "private": true,
+  "repository": {
+    "type" : "git",
+    "url" : "ssh://git@github.com:romkacrv/module.git"
+  },
   "scripts": {
     "test": "test",
     "build": "webpack --config webpack.config.js"
