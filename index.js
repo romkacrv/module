@@ -4,6 +4,6 @@ import {
     getNow
 } from './lib/index';
 
-export default {
+export {
     getNow
 };
