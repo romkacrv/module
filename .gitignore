@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /webpack.config.js
-/babelrc
+/.babelrc
 
 # misc
 .DS_Store
